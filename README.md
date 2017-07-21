@@ -1,6 +1,8 @@
 # luizalab
 [desafio] Analista de Big Data Analytics
 
+Resultado esperado para analise dos modelos propostos está disponivel em excel dentro do projeto.
+
 Dependencias do Projeto: 
 
 Python versão: 3.6.2
